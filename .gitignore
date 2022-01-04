@@ -1,3 +1,5 @@
 hello
 *.o
 *.com
+*.swp
+*.map
